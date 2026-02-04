@@ -8,7 +8,6 @@ import java.util.Scanner;
      public static void main(String[] args){
          Scanner scan = new Scanner(System.in);
 
-
          System.out.println("Select Your Account");
          System.out.println("1.SavingAccount");
          System.out.println("2.CurrentAccount");
@@ -101,7 +100,6 @@ import java.util.Scanner;
 
                      default:
                          System.out.println("InValid Options");
-
                  }
               }
          }
