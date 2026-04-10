@@ -9,7 +9,7 @@ It allows users to create accounts, deposit money, withdraw money and check bala
 - Deposit Money
 - Withdraw Money
 - Check Balance
-- Simple Console Based Application
+
 
 🛠️ Technologies Used
 
